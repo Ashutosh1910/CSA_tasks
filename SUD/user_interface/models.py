@@ -34,6 +34,7 @@ branches=(
     ("B2","Msc. CHEM"),
     ("A5","PHARMA"),
     ("B4","Msc. MATH"),
+    ("B3","Msc. ECO"),
     ("B3","Msc. ECO")
 
 
